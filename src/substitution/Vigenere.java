@@ -11,6 +11,8 @@ public class Vigenere extends PolyAlphabetic{
     
     /**
      * 
+     * this method is not implemented yet
+     * 
      * @param key the key you use to cipher the text
      * @return ciphertext
      */
