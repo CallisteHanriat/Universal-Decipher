@@ -9,3 +9,5 @@ Algorithms that are currently working :
       1. Vigenere
 
 N.B. : the project is written with netbeans 
+
+Test modification Calliste
